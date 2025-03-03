@@ -1,3 +1,62 @@
+# Explicad brevemente la historia del lenguaje (orígenes, versiones, visión de futuro). 
+
+Java nació en junio de 1991 como un proyecto llamado “Oak” bajo el desarrollo de un pequeño equipo de ingenieros en SunMicrosystems.
+El grupo se hacían llamar el Equipo Verde: James Gosling, Mike Sheridan y Patick Naughton. En 1995 le cambiaron el nombre a Java ya que Oak ya estaba registrado como
+parte de otra marca.James Gosling era el jefe del proyecto, y su objetivo original era crear un lenguaje de programación orientado a objetos que pudiera implementar
+una maquina virtual y que fuera mas simple y universal que C/C++, pero al mismo tiempo tendría una sintaxis similar a C/C++ para que sea facil de aprender y usar por
+parte de los programadoresactuales que están bien familiarizados con la notación C. 
+
+En 1996 se lanzo la primera implantación publica de Java 1.0.
+Poco después del lanzamiento de Java 1, todos los principales navegadores web incorporaron la capacidad de ejecutar applets de Java dentro de las páginas web, lo que
+convirtió a Java en una de las tecnologías más importantes en la programación de Internet. Java 2, lanzado en 1998,agregó múltiples configuraciones creadas para diferentes
+tipos de plataformas. En noviembre de 2006, Sun lanzó gran parte de su máquina virtual Java (JVM) bajo la Licencia Pública General GNU como software gratuito y de código
+abierto. En mayo de 2007 completaron el proceso de convertir Java en fuente abierta accediendo completamente al código central de JVM. En abril de 2009, Oracle Corporation
+completó la adquisicion de Sun Microsystems y con ella adquirió todos los derechos sobre las tecnologías Java desarrolladas por los desarrolladores de Sun dentro del Green
+Team. James Gosling renunció a Oracle un año después, en abril de 2020. 
+
+El mayor cambio en el desarrollo de tecnologías Java bajo Oracle se produjo en 2017, cuando anunciaron que Java se moverá a un nuevo ciclo de lanzamiento, con una nueva
+versión lanzada cada seis meses, como una forma de garantizar que las tecnologías relacionadas con Java se actualicen oportunamente en de acuerdo con las necesidades y
+requerimientos del mercado actual. 
+
+Hoy Java es conocido como uno de los lenguajes de programación más versátiles del mundo. Se usa en casi todas partes en términos de plataformas, tecnologías y sectores
+económicos: miles de millones de teléfonos Android ejecutan Java; muchos juegos se desarrollan y mantienen en Java; sin mencionar el amplio uso de Java en aplicaciones de
+servidor de nivel empresarial. 
+
+# Explicad brevemente cuál es el campo de aplicación principal del lenguaje escogido, poniendo ejemplos reales (aplicaciones que se encuentran en el mercado, proyectos cancelados,
+estudios ...). 
+
+Java es un lenguaje de propósito general con presencia en diversos sectores. Donde mas podemos ver su presencia es en software empresarial, pero también podemos verlo en aplicaciones
+móviles, servidores, sistemas embebidos y tecnologías en la nube.
+
+1- Aplicaciones empresariales y web.
+		-Java es ampliamente utilizado en sistemas bancarios, ERP y gestión de grandes 			volúmenes de datos. 
+		-Ejemplos: Netflix, Amazon y Ebay.
+		-Frameworks populares: Spring Boot, Jakarta EE.
+
+	2- Desarrollo de Aplicaciones Móviles (Android).
+		-Java fue el lenguaje principal de Android hasta la llegada de Kotlin.
+		-Ejemplo: Primeras versiones de Instagram y Spotify.
+ 
+	3- Big Data y Cloud Computing.
+		-Java es clave en plataformas de analisis de datos y computacion en la nube.
+		-Ejemplo: Apache Hadoop y Apache Spark.
+
+	4- Software Cientifico y Finanzas.
+		-Java se usa en aplicaciones de simulacion, modelado y calculos financieros.
+		-Ejemplo: MATLAB y Wolfram Alpha.
+
+	5- Sistemas Embebidos e loT
+		-Java se emplea en dispositivos como decodificadores de TV, routers y sistemas 			automatizacion.
+		-Ejemplo: Tarjetas inteligentes y sistemas de control industrial.
+
+	6- Desarrollo de Videojuegos
+		-Java ha sido la base de juegos multiplataforma.
+		-Ejemplo: Minecraft.
+
+Proyectos Cancelados o en Desuso
+	-JavaFX: intento reemplazar tecnología web modernas para interfaces gráficas, pero perdió 	popularidad frente a frameworks mas ligeros.
+	-Project Jigsaw (en sus primeras versiones): Buscaba mejorar la modularidad de Java, pero tuvo 	problemas de compatibilidad con versiones antiguas.
+
 ENNTORNO DE DESARROLLO JAVA
 
 
